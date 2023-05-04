@@ -19,3 +19,6 @@ cryptocurrencies, including Bitcoin, Ethereum, Binance Coin, and many more.
 - Advanced responsive design concepts (responsive images).
 - Writing globally used CSS mixins with breakpoints for media queries.
 - Browser support concepts
+
+ # Preview of Website:
+ ![RESULT!](images/result.png)
