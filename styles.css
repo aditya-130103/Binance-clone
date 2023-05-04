@@ -31,6 +31,7 @@ body
 {
     height: 0px;
     background-color: white;
+    border-top: 10px;
 }
 .pic
 {
@@ -43,6 +44,7 @@ body
     height: 300px;
     width: 700px;
     border-radius: 5%;
+    margin-right: 10px;
 }
 .pic2
 {
@@ -53,4 +55,12 @@ body
 .pic3
 {
     border-radius: 5%;
+}
+.fonta
+{
+    font-size:48px;
+}
+.container1
+{
+    margin-left: 50px;
 }
