@@ -32,12 +32,19 @@ body
     height: 0px;
     background-color: white;
     border-top: 10px;
+    height:40;
+}
+.svgg1
+{
+    height:40;
 }
 .pic
 {
     height: 500px;
     width: 700px;
     border-radius: 10%;
+    margin: 5px;
+    border: 5px;
 }
 .pic1
 {
@@ -45,16 +52,22 @@ body
     width: 700px;
     border-radius: 5%;
     margin-right: 10px;
+    margin: 5px;
+    border: 5px;
 }
 .pic2
 {
     height: 500px;
     width: 250px;
     border-radius: 5%;
+    margin: 5px;
+    border: 5px;
 }
 .pic3
 {
     border-radius: 5%;
+    margin: 5px;
+    border: 5px;
 }
 .fonta
 {
@@ -63,4 +76,9 @@ body
 .container1
 {
     margin-left: 50px;
+}
+.top
+{
+    margin: 0px;
+    border: 0px;
 }
