@@ -7,7 +7,7 @@ body
     height: 100px;
 }
 .continue
-{
+{   
     background-color: white;
     border: 0px;
 }
@@ -36,14 +36,21 @@ body
 {
     height: 500px;
     width: 700px;
+    border-radius: 10%;
 }
 .pic1
 {
     height: 300px;
     width: 700px;
+    border-radius: 5%;
 }
 .pic2
 {
     height: 500px;
     width: 250px;
+    border-radius: 5%;
+}
+.pic3
+{
+    border-radius: 5%;
 }
